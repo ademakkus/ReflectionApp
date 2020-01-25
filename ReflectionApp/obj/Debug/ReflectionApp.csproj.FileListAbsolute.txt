@@ -1,0 +1,6 @@
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.pdb
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csprojResolveAssemblyReference.cache
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.exe
+D:\AdemAKKUS\Uygulamalar\Hafta17\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.pdb
